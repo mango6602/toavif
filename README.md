@@ -1,7 +1,9 @@
 # AVIF 图片转换工具
 
 一个基于Python的图形界面AVIF图片转换工具，支持拖拽操作、多线程处理和GPU/CPU编码。
-------
+
+## 截图
+
 <img width="1391" height="1172" alt="d43d56230ba93c40085da1c75a6a77c4" src="https://github.com/user-attachments/assets/d61309e8-661e-404c-843c-d5b742edd146" />
 
 ## 功能特点
@@ -152,6 +154,10 @@ python avif_converter.py
 ## 许可证
 
 本项目基于Apache-2.0许可证开源。
+
+### 其他
+本仓库代码部分由Cursor生成
+
 
 ## 更新日志
 
