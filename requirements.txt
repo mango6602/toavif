@@ -1,0 +1,4 @@
+tkinterdnd2==0.3.0
+pywin32>=227
+winshell>=0.6
+pathlib2>=2.3.7 

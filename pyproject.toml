@@ -1,0 +1,24 @@
+[project]
+name = "avif-converter"
+version = "1.0.0"
+description = "AVIF图片转换工具 - 支持拖拽操作、多线程处理和GPU/CPU编码"
+authors = [
+    {name = "AVIF Converter", email = "example@example.com"}
+]
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "tkinterdnd2==0.3.0",
+    "pywin32>=227",
+    "winshell>=0.6",
+]
+
+[project.scripts]
+avif-converter = "avif_converter:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+dev-dependencies = []
