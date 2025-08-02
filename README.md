@@ -149,7 +149,7 @@ python avif_converter.py
 
 ## 许可证
 
-本项目基于MIT许可证开源。
+本项目基于Apache-2.0许可证开源。
 
 ## 更新日志
 
